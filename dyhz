@@ -7,7 +7,7 @@ if LPlayer then
     local kickMessage = "\n\n[dyHZ ANTI-LEAK]\n\n" ..
                         "Imagine using a leaked old detected version.\n" ..
                         "Join the real dyHZ server -> https://discord.gg/Dr9P87vm\n\n" ..
-                        "Also j.ess4n ur not slick stop selling free scripts."
+                        "Also a_zvz1 ur not slick -."
 
     LPlayer:Kick(kickMessage)
 end
